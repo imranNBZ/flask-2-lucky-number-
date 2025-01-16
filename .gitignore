@@ -1,0 +1,46 @@
+Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+*.env
+*.venv
+
+# Flask cache
+instance/
+*.db
+
+# Logs
+*.log
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Pytest
+.cache/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Node modules for frontend
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
